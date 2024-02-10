@@ -1,0 +1,2 @@
+product_id=9P6PWP9Q367C
+friendly_name=cart-BR
